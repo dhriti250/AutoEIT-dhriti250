@@ -1,5 +1,9 @@
 # AutoEIT GSoC 2026 – Evaluation Test II
 
+**Author:** Dhriti Singh  
+Backend & AI Developer | GSoC 2026 Applicant
+
+
 ## 📌 Project Overview
 This project implements an automated scoring system for the Elicited Imitation Task (EIT), a research tool used to evaluate language proficiency.
 
