@@ -94,7 +94,4 @@ Scores are assigned based on similarity thresholds:
 
 ---
 
-## 📎 Note
-
-This project was developed as part of the GSoC 2026 evaluation process under the HumanAI AutoEIT project.
 
