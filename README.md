@@ -12,6 +12,10 @@ This project implements an automated scoring system for the Elicited Imitation T
 
 The goal is to replace manual scoring with a consistent, reproducible system that compares learner responses with target sentences and assigns scores based on similarity and linguistic accuracy.
 
+## Dataset
+
+The dataset used in this project is provided as part of the AutoEIT evaluation test and is not included in this repository.
+
 ---
 
 ## 🧠 Approach
