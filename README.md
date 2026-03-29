@@ -6,6 +6,7 @@ Backend & AI Developer | GSoC 2026 Applicant
 
 ## 📌 Project Overview
 This project implements an automated scoring system for the Elicited Imitation Task (EIT), a research tool used to evaluate language proficiency.
+**Improved scoring by incorporating word-level overlap to better approximate meaning-based evaluation**
 
 The goal is to replace manual scoring with a consistent, reproducible system that compares learner responses with target sentences and assigns scores based on similarity and linguistic accuracy.
 
